@@ -6,9 +6,10 @@
 # [NIHON]
 *これは私が作成して失敗したゲームモード プロジェクトですが、これは失敗ではありません。スクリプトは失敗です。このプロジェクトは停止しました。*
 
-[ENG]
+# NOTE
+# [ENG]
 *Don't Remove Credits*
-[ID]
+# [ID]
 *Jangan Hapus Credits*
-[NIHON]
+# [NIHON]
 *クレジットを削除しないでください*
